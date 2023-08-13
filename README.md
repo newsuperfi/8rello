@@ -16,6 +16,16 @@
 To do 리스트를 제공하는 협업 툴  
 [시연영상 링크](https://youtu.be/8bzCjmeoM3o)
 
+## ERD 설계
+![image](https://github.com/newsuperfi/8rello/assets/122774009/a77f604f-ec32-41ae-9b98-4474ddf292d7)
+
+## 역할배분
+유지은님 : 보드 CRUD api, 프론트 메인페이지 디자인, 보드 관련 기능 연결, 카드 멤버추가 기능
+한조원님 : 컬럼 CRUD api, 컬럼 관련 기능 프론트 연결
+이재광님 : 로그인 / 회원가입 api 및 프론트 페이지
+류원희님 : 카드 CRUD api, 프론트 카드 관련 기능 연결
+
+
 # 🤯 어려웠던 점 & 해결방법
 
 ## 류원희님
